@@ -1,0 +1,6 @@
+# IG.News 
+
+
+### Stacks
+
+- NextJS
