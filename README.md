@@ -15,3 +15,7 @@
   ```bash
   yarn add typescript @types/react @types/node -D
   ```
+- Instalando o SASS
+  ```bash
+  yarn add sass
+  ```
