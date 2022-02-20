@@ -26,3 +26,8 @@
   ```bash
   yarn add sass
   ```
+
+- Installing Stripe ( Payment Platform API )
+  ```bash
+  yarn add stripe
+  ```
