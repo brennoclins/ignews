@@ -1,5 +1,24 @@
 # IG.News 
 
+### What I learned from this project: 
+
+API consumption strategies 
+
+- Client-side: All processing is done client-side and not good for indexing with search engines
+
+- Server-side Rendering (SSR): Dynamic and static data processing is performed by the server. Good for indexing, but the new house it visits it makes a request to the server.
+
+- Static Site Generation (SSG): Static Data processed by the server. period-controlled update
+
+---
+
+Estrategias para consumo de API
+
+- Client-side: todo o processamento é feito pelo lado do cliente e não é bom para indexação com motores de busca
+
+- Server-side Rendering (SSR): Dados dinamicos e estáticos o processamento é realizado pelo servidor. Bom para indexação, porém a casa nova visita ele realiza uma requisição ao servidor.
+
+- Static Site Generation (SSG): Dados Estáticos processados pelo servidor. atualização controlada por periodos
 
 ### Technologies used 
 
