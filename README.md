@@ -16,7 +16,7 @@
   - JWT (Storage)
   - Next Auth (Social: GitHub, GitLab, Google, Microsoft)
   - Cognito, Auth0
-  
+
 ---
 
 ### Estrategias para consumo de API
@@ -40,6 +40,7 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 - [Sass](https://sass-lang.com/)
+- [NextAuth.js](https://next-auth.js.org/)
 
 ### Payment platform
 
@@ -64,3 +65,9 @@
   ```bash
   yarn add stripe
   ```
+
+- Installing Next Auth
+  ```bash
+  yarn add next-auth
+  ```
+  
