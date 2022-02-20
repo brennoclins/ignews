@@ -9,7 +9,7 @@ export default function Home() {
         <title>Inicio | ig.news</title>
       </Head>
       
-      <h1 className={styles.title}>BCL-<span>ST</span></h1>
+      <h1>BCL-<span>ST</span></h1>
     </>
   )
 }
