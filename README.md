@@ -11,6 +11,12 @@
 - Static Site Generation (SSG): Static Data processed by the server. period-controlled update
 
 - Serverless Concepts 
+
+- Authentication Strategies
+  - JWT (Storage)
+  - Next Auth (Social: GitHub, GitLab, Google, Microsoft)
+  - Cognito, Auth0
+  
 ---
 
 ### Estrategias para consumo de API
@@ -22,6 +28,11 @@
 - Static Site Generation (SSG): Dados Estáticos processados pelo servidor. atualização controlada por periodos
 
 - Conceito de `Serverless`
+
+- Estrategias de autenticação
+  - JWT (Storage)
+  - Next Auth (Social: GitHub, GitLab, Google, Microsoft)
+  - Cognito, Auth0
 
 ### Technologies used 
 
